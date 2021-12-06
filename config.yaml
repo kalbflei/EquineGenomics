@@ -1,0 +1,8 @@
+# Global configuration for genome and annotation settings
+genome: "EquCab3"
+genome_source: "RefSeq"
+genome_link: "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/863/925/GCF_002863925.1_EquCab3.0/GCF_002863925.1_EquCab3.0_genomic.fna.gz"
+cds_link: "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/863/925/GCF_002863925.1_EquCab3.0/GCF_002863925.1_EquCab3.0_cds_from_genomic.fna.gz"
+rna_link: "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/863/925/GCF_002863925.1_EquCab3.0/GCF_002863925.1_EquCab3.0_rna.fna.gz"
+annotation_link: "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/863/925/GCF_002863925.1_EquCab3.0/GCF_002863925.1_EquCab3.0_genomic.gtf.gz"
+annotation_version: "103" 
